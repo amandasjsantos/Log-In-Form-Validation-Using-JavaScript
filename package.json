@@ -1,0 +1,24 @@
+{
+  "name": "log-in-form-validation-using-javascript",
+  "version": "1.0.0",
+  "description": "A simple repo on how to validate a Log In form using JavaScript. It also shows how to create an aesthetic of the form using CSS3. Basically, JavaScript limits the User to three login attempts. If the User fails to input the correct credentials, the input fields and submit button lock. If h/she inputs the correct credentials h/she is redirected to another page.",
+  "main": "Js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patwan/Log-In-Form-Validation-Using-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Patwan/Log-In-Form-Validation-Using-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Patwan/Log-In-Form-Validation-Using-JavaScript#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1"
+  }
+}
